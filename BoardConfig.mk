@@ -9,9 +9,6 @@ TARGET_OTA_ASSERT_DEVICE := gprimeltezt,fortunaltezt,fortunalteuh,gprimelteuh
 # Kernel
 TARGET_KERNEL_VARIANT_CONFIG := msm8916_sec_fortuna_chnzt_defconfig
 
-# Keymaster
-TARGET_PROVIDES_KEYMASTER := true
-
 # Partition sizes
 BOARD_SYSTEMIMAGE_PARTITION_SIZE    :=  1468006400
 BOARD_USERDATAIMAGE_PARTITION_SIZE  := 5834256384
