@@ -90,4 +90,4 @@ vendor/lib/lib-sec-disp.so
 lib/libsec-ril.so|1c02d1c3ff89b2da9194fa1d1fc099ff
 
 # Sensors - J500HXXU1APE5_J500HOXE1APE5_J500HXXU1APC2
-lib/hw/sensors.msm8916.so|fb5fbe6b832c242e18ab0a5cb53ad91c
+lib/hw/sensors.msm8916.so:lib/hw/sensors.vendor.msm8916.so|fb5fbe6b832c242e18ab0a5cb53ad91c
